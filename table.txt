@@ -1,0 +1,41 @@
+database name:  car_rental_system
+create table image_table
+(
+	car_name varchar(255),
+	seater varchar(255),
+	car_number varchar(255),
+	model varchar(255),
+	mileage varchar(255),
+	fileName varchar(255)
+);
+create table feedback
+(
+	name varchar(255),
+	email  varchar(255),
+	comments varchar(255)
+);
+create table booknow
+(
+	id int,
+	name varchar(255),
+	mobile_number varchar(10),
+	pick_up_date DATE,
+	drop_off_date DATE,
+	pick_up_location varchar(255),
+	drop_off_location varchar(255)
+);
+create table registration 
+(
+	first_name varchar(255),
+	last_name varchar(255),
+	password varchar(255),
+	confirm_password varchar(255),
+	sex varchar(10),
+	adhar_number varchar(12),
+	city varchar(255),
+	district varchar(255),
+	pincode varchar(6),
+	state varchar(255),
+	mobile_number varchar(10),
+	email varchar(255) primary key
+); 

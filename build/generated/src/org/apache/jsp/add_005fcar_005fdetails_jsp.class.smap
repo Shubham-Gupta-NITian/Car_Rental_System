@@ -1,0 +1,14 @@
+SMAP
+add_005fcar_005fdetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_car_details.jsp
+add_car_details.jsp
++ 1 header3.jsp
+header3.jsp
+*L
+5,5:49
+5#1,38:54
+9#0,139:91
+*E

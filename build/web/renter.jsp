@@ -1,7 +1,7 @@
 <%-- 
-    Document   : update_renter
-    Created on : Apr 7, 2018, 6:37:05 AM
-    Author     : abhishek
+    Document: update_renter
+    Created on: Jan 7, 2022, 6:37:05 AM
+    Author: Abhishek
 --%>
 <!DOCTYPE html>
 <html>
@@ -76,7 +76,7 @@
    <div class="footer-copyright py-3 text-center">
        
         
-        © 2018 Copyright:
+        Â© 2018 Copyright:
         <a href="https://mdbootstrap.com/material-design-for-bootstrap/"> MDBootstrap.com </a>
     </div>
 </footer>

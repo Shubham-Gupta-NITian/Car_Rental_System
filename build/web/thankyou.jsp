@@ -1,7 +1,7 @@
 <%-- 
     Document   : thankyou
-    Created on : Mar 20, 2018, 10:13:52 PM
-    Author     : abhishek
+    Created on : Jan 20, 2022, 10:13:52 PM
+    Author     : Abhishek
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -14,7 +14,7 @@
     </head>
 
       <body>
-        <h1>thank you for give the feedback..</h1>
+        <h1> Thank you for giving the feedback..</h1>
         
         
         <%

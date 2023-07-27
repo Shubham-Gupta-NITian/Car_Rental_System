@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.sql.*;
 /**
  *
- * @author abhishek
+ * @author Shubham Gupta.
  */
 public class login extends HttpServlet {
     

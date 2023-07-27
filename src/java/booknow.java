@@ -8,7 +8,7 @@ import java.sql.*;
 
 /**
  *
- * @author abhishek
+ * @author Shubham Gupta.
  */
 public class booknow extends HttpServlet {
 

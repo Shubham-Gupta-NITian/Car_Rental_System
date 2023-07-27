@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author abhishek
+ * @author Shubham Gupta.
  */
 public class feedback extends HttpServlet {
     Connection con;
